@@ -1,6 +1,4 @@
-package HeapSort;
-
-import java.sql.SQLOutput;
+package src;
 
 public class HeapSort {
     public void sort(int arr[]){
